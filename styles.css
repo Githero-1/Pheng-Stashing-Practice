@@ -38,3 +38,17 @@ section {
 h2 {
     color: #555;
 }
+<<<<<<< Updated upstream
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+=======
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: your.email@example.com</p>
+</section>
+>>>>>>> Stashed changes
